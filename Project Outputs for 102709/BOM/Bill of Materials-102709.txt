@@ -1,0 +1,10 @@
+Comment	Description	Designator	Footprint	LibRef	Quantity
+
+"1812L050PR"	"POLY-FUSE(R) Resettable PTC, 0.5 A, 0.15 to 1 Ohm Resistance, -40 to 85 degC, 1812 (4532 Metric), RoHS, Tape and Reel"	"F1"	"LFUS-1812L050_V"	"CMP-1700-00002-1"	"1"
+"2x8 Header"	""	"J1"	"2x9_header"	"2x9 Header"	"1"
+"Battery Connector"	""	"J2"	"Battery Connector"	"Battery Connector"	"1"
+"HSMG-C150"	"Chip LED, Green, 65 mW, 25 mA, -40 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel"	"LED1, LED2, LED3, LED4"	"AVAG-HSMX-C150_V"	"CMP-2000-05061-1"	"4"
+"POGO PINS"	""	"P1"	"EAX500 POGOS"	"EAX500 POGO"	"1"
+"MMBT3906"	"PNP General-Purpose Amplifier, 40 V, 0.2 A, -55 to 150 degC, 3-Pin SOT23, RoHS, Tape and Reel"	"Q1"	"FAIR-SOT23-3_V"	"CMP-1670-00011-1"	"1"
+"MMBT3904"	"NPN General Purpose Amplifier, 40 V, 0.2 A, -55 to 150 degC, 3-Pin SOT23, RoHS, Tape and Reel"	"Q2"	"FAIR-SOT23-3_V"	"CMP-1670-00008-1"	"1"
+"Res1"	"Resistor"	"R1, R2, R3, R4, R5, R6"	"RESC0805(2012)_M"	"Res1"	"6"

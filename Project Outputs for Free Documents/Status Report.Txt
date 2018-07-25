@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 12:09:14 PM On 6/27/2018
+Start Output Generation At 12:07:55 PM On 6/27/2018
 
 Output: Bill of Materials
 Type  : BOM
-From  : Variant [[No Variations]] of Schematic Document [102709.SchDoc]
+From  : Variant [[No Variations]] of Project [102709.PrjPcb]
    Generated File[Bill of Materials-102709.txt]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 12:09:15 PM On 6/27/2018
+Finished Output Generation At 12:07:56 PM On 6/27/2018
